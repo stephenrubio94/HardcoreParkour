@@ -4,6 +4,8 @@ Intermediate
 Saved
 Build
 Build/
+Backups
+Backups/
 .vs
 *.VC.db
 *.opensdf
